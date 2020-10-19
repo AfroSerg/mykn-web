@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '/./vendor/autoload.php');
+require_once(__DIR__ . '/../vendor/autoload.php');
 
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
@@ -29,7 +29,7 @@ $app = AppFactory::create();
 
 
 $app->get('/apply', function (Request $request, Response $response, $args) {
-    $loader = new FilesystemLoader(__DIR__ . '/templates');
+    $loader = new FilesystemLoader(__DIR__ . '/../templates');
     $environment = new Environment($loader);
     $template = $environment->load('apply.html');
     $response->getBody()->write($template->render());
@@ -38,7 +38,7 @@ $app->get('/apply', function (Request $request, Response $response, $args) {
 
 
 $app->get('/', function (Request $request, Response $response, $args) {
-    $loader = new FilesystemLoader(__DIR__ . '/templates');
+    $loader = new FilesystemLoader(__DIR__ . '/../templates');
     $environment = new Environment($loader);
     $template = $environment->load('index.html');
     $response->getBody()->write($template->render());
