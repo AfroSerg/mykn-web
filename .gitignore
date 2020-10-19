@@ -1,3 +1,2 @@
 .idea
-web/node_modules
-web/yarn.lock
+web

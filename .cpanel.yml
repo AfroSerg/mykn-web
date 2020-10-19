@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mykncecl/public_html/
+    - export DEPLOYPATH=/home/mykncecl/
     - /bin/cp -R * $DEPLOYPATH
