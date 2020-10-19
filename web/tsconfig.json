@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "lib": ["es5", "es6", "dom", "esnext"],
+    "suppressImplicitAnyIndexErrors": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noEmitOnError": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

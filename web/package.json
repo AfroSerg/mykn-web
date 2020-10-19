@@ -1,0 +1,43 @@
+{
+  "name": "mykn-web",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --host 0.0.0.0",
+    "gen-sauce": "node gen.sauce.js"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/react": "^16.9.50",
+    "@types/react-dom": "^16.9.8",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "postcss": "^8.1.1",
+    "postcss-loader": "^4.0.3",
+    "precss": "^4.0.0",
+    "source-map-loader": "^1.1.0",
+    "style-loader": "^1.2.1",
+    "tailwindcss": "^1.8.10",
+    "ts-loader": "^8.0.4",
+    "typescript": "^4.0.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react",
+      "@babel/preset-typescript"
+    ]
+  }
+}

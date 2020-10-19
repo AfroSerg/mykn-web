@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d799bf68-396d-48ba-86dc-69c178ac1d38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="HTML File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1i5tsW8fKL8SHrqrsztbm76Xq8Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images/covers" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/web/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/covers" />
+      <recent name="$PROJECT_DIR$/web/src/components/pages" />
+      <recent name="$PROJECT_DIR$/web/src/pages" />
+      <recent name="$PROJECT_DIR$/web/src" />
+      <recent name="$PROJECT_DIR$/lib/core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public_html/static/js" />
+      <recent name="$PROJECT_DIR$/public_html" />
+      <recent name="$PROJECT_DIR$/web/src" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d799bf68-396d-48ba-86dc-69c178ac1d38" name="Default Changelist" comment="" />
+      <created>1601209487447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601209487447</updated>
+      <workItem from="1601209488619" duration="660000" />
+      <workItem from="1601210211875" duration="103000" />
+      <workItem from="1601210403947" duration="4209000" />
+      <workItem from="1601459730598" duration="76000" />
+      <workItem from="1601459922935" duration="17686000" />
+      <workItem from="1601642517301" duration="42474000" />
+      <workItem from="1602235168654" duration="137000" />
+      <workItem from="1602235386699" duration="8856000" />
+      <workItem from="1602440041473" duration="5413000" />
+      <workItem from="1603096944124" duration="2043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602235174207">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1602235174207" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601741067043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601741067043" />
+    <state x="559" y="369" key="ComposerInitDialogKey" timestamp="1601474292305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="559" y="369" key="ComposerInitDialogKey/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601474292305" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601214862068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601214862068" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601214862066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601214862066" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601214862065">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601214862065" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601214862067">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601214862067" />
+    <state x="543" y="380" key="NewPhpFileDialog" timestamp="1601791576306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="543" y="380" key="NewPhpFileDialog/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601791576306" />
+    <state x="92" y="-973" key="SettingsEditor" timestamp="1603099113540">
+      <screen x="-213" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601751880780" />
+    <state x="92" y="-973" key="SettingsEditor/0.23.1440.877/-213.-1080.1920.1080@-213.-1080.1920.1080" timestamp="1603099113540" />
+    <state x="-113" y="-980" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603099451745">
+      <screen x="-213" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-113" y="-980" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-213.-1080.1920.1080@-213.-1080.1920.1080" timestamp="1603099451745" />
+    <state x="427" y="82" width="586" height="735" key="find.popup" timestamp="1601642994442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="82" width="586" height="735" key="find.popup/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601642994442" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1601792578599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601792578599" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602238905673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1602238905673" />
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601459751383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900/1440.-83.1920.1080@0.0.1440.900" timestamp="1601459751383" />
+  </component>
+</project>
